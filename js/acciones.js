@@ -43,7 +43,7 @@ function getPosition(){
 		}
 }
 
-function WatchPosition(){
+function watchPosition(){
 	
 	var options={
 		maximumAge : 3600000,
